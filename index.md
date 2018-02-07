@@ -1,7 +1,6 @@
 # WPLib
 
-![WPLib](WPLib-Box-200x.png)
-![WPLib](WPLib-Box-100x.png)
+![WPLib](https://github.com/wplib/wplib.github.io/raw/master/WPLib-Box-200x.png)
 
 **The Developer Experience Project for WordPress**
 
