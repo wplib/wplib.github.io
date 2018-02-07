@@ -1,5 +1,8 @@
 # WPLib
 
+![WPLib](https://github.com/wplib/wplib.github.io/blob/master/WPLib-Box-200x.png)
+![WPLib](https://github.com/wplib/wplib-box/blob/master/WPLib-Box-100x.png)
+
 **The Developer Experience Project for WordPress**
 
 ----
@@ -12,8 +15,6 @@
     \  /\  /  | |    | |____| | |_) | | |_) | (_) >  <
      \/  \/   |_|    |______|_|_.__/  |____/ \___/_/\_\
 ```
-
-![WPLib-Box](https://github.com/wplib/wplib.github.io/blob/master/WPLib-Box-200x.png)
 
 ----
 
