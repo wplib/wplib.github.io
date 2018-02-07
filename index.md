@@ -1,4 +1,4 @@
-# WPLib Box
+# WPLib
 
 **The EASIEST way to get a local WordPress development environment**, using Vagrant.
 
