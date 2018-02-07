@@ -1,7 +1,9 @@
 # WPLib
 
 **The Developer Experience Project for WordPress**
+
 ----
+
 ```
  __          _______  _      _ _       ____
  \ \        / /  __ \| |    (_) |     |  _ \
@@ -11,7 +13,7 @@
      \/  \/   |_|    |______|_|_.__/  |____/ \___/_/\_\
 ```
 
-![WPLib-Box](https://github.com/wplib/wplib-box/blob/master/WPLib-Box-100x.png)
+![WPLib-Box](https://github.com/wplib/wplib.github.io/blob/master/WPLib-Box-200x.png)
 
 ----
 
